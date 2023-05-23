@@ -1,8 +1,8 @@
 ## Introduction
-
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
+  <img src="https://media.tenor.com/yCFHzEvKa9MAAAAi/hello.gif" />
+</div>
+
 
 ### <h2 align="center">Hey there! I'm Stefan, a passionate trainee software engineer ready to bring your ideas to life. Beyond coding, I embrace a diverse range of interests that shape my worldview.</h2>
 
