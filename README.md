@@ -48,6 +48,12 @@ I'm excited to collaborate on projects that combine my technical skills with my 
 <img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />
 </div>
 
+## GitHub Stats
+
+<div align="center">
+<img src="http://github-readme-streak-stats.herokuapp.com?user=sord-dev&theme=tokyonight-duo&hide_border=true&&date_format=j%20M%5B%20Y%5D" />
+</div>
+
 ## Connect with Me
 
 <p align="center">
@@ -58,9 +64,3 @@ I'm excited to collaborate on projects that combine my technical skills with my 
     <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
-
-## GitHub Stats
-
-<div align="center">
-<img src="http://github-readme-streak-stats.herokuapp.com?user=sord-dev&theme=tokyonight-duo&hide_border=true&&date_format=j%20M%5B%20Y%5D" />
-</div>
