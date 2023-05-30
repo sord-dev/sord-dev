@@ -62,5 +62,5 @@ I'm excited to collaborate on projects that combine my technical skills with my 
 ## GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sord-dev&show_icons=true&count_private=true&hide_border=true" />
+<img src="http://github-readme-streak-stats.herokuapp.com?user=sord-dev&theme=tokyonight-duo&hide_border=true&&date_format=j%20M%5B%20Y%5D" />
 </div>
