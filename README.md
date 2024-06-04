@@ -1,66 +1,75 @@
-## Introduction
-<div align="center">
-  <img src="https://media.tenor.com/yCFHzEvKa9MAAAAi/hello.gif" />
-</div>
+# Stefan Syrett - Platform Engineer
 
+Hey there! I'm Stefan Syrett, a passionate DevOps/Platform Engineer with a knack for cloud infrastructure and web development.
 
-### <h2 align="center">Hey there! I'm Stefan, a passionate trainee software engineer ready to bring your ideas to life. Beyond coding, I embrace a diverse range of interests that shape my worldview.</h2>
+Check out my [Portfolio Website](https://stefan-syrett.netlify.app/) to see some cool projects I've worked on!
 
-- 🎸 When I'm not scheming on my next project, you'll often find me playing something edgy on my guitar.
+## 👨‍💻 About Me
 
-- 📚 I have a deep fascination with morality and philosophy.
+I've been on an exciting journey from learning the basics of HTML, CSS, and JavaScript to diving into frameworks like React and NextJS, and even exploring Tauri for desktop app development. Currently, I'm leveraging my skills at the Care Quality Commission to modernize and manage cloud resources using Azure, Power Platform, and Terraform.
 
-- 🎮 Video games are another passion of mine, providing an interactive medium for storytelling and immersive experiences. They allow me to unwind and tap into my imagination.
+### Contact Me
+- **Email:** stefansyrett17@gmail.com
+- **LinkedIn:** [Stefan Syrett](https://www.linkedin.com/in/stefansyrett/)
+- **GitHub:** [sord-dev](https://github.com/sord-dev)
 
-- 📖 In my spare time, I delve into books on marketing and software development, constantly seeking to broaden my knowledge.
+## 🛠️ Skills
 
-- 🌍 Languages (non-computer ones) captivate me too! I indulge in learning new ones whenever inspiration strikes.
+### Technical Skills
+- **Cloud Infrastructure:** Azure, Power Platform, Terraform
+- **Web Development:** HTML, CSS, JavaScript, React, NextJS, Express
+- **Desktop Applications:** Tauri (Rust)
+- **Automation and Scripting:** PowerShell, Terraform
+- **Database Management:** PostgreSQL, MongoDB
+- **Version Control:** Git, GitHub
+- **Design Tools:** Photoshop, Figma
 
-I'm excited to collaborate on projects that combine my technical skills with my strange little range of interests. Let's bring innovation and creativity together!
+## 🏢 Experience
 
-## My Skill Set
+### Care Quality Commission - DevOps/Platform Engineer
+*July 2023 - Present*
+- Utilized Azure, Power Platform, and Terraform to manage cloud resources.
+- Implemented access controls and managed Azure DevOps pipelines.
+- Developed automation scripts to streamline tasks and cut costs.
+- Configured virtual machines and provided user support.
+- Contributed to technical modernization efforts.
 
-### Frontend
+### La Fosse Academy - Tech Trainee
+*March 2023 - July 2023*
+- Enhanced skills in React, JavaScript, HTML, and CSS.
+- Gained experience with SQL and PostgreSQL.
+- Learned about authentication, TDD, and team collaboration.
+- Used GitHub for version control and automation.
 
-<div align="center">
-<img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
-<img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />
-<img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
-<img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
-<img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />
-<img src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" />
-<img src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" height="50" />
-<img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />
-</div>
+### Freelance Web Developer
+*August 2022 - March 2023*
+- Created web pages for various clients using React, Redux, CSS, Node.js, Express, and MongoDB.
+- Provided graphic design services using Photoshop.
+- Collaborated with music producers and small businesses on web solutions.
 
-### Backend
+### StoneSpiral Ltd - Front End Developer
+*January 2022 - July 2022*
+- Worked with WordPress CMS to build and maintain client websites.
+- Edited media using Photoshop.
+- Communicated with clients to address issues and gather requirements.
 
-<div align="center">
-<img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
-<img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />
-<img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />
-<img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />
-<img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
-<img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />
-<img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
-<img src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />
-<img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />
-<img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />
-</div>
+## 📚 Education
 
-## GitHub Stats
+- **Level 3 National Diploma in Information Technology**, Fulham Enterprise Studios
+  *January 2018 - July 2021, London*
 
-<div align="center">
-<img src="http://github-readme-streak-stats.herokuapp.com?user=sord-dev&theme=tokyonight-duo&hide_border=true&&date_format=j%20M%5B%20Y%5D" />
-</div>
+- **AZ-900: Azure Fundamentals**, Microsoft
+  *January 2024*
 
-## Connect with Me
+## 🌟 Projects
 
-<p align="center">
-  <a href="https://github.com/sord-dev">
-    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://linkedin.com/in/stefansyrett">
-    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
+### [Portfolio](https://stefan-syrett.netlify.app/)
+A space-themed portfolio website showcasing my recent projects and technologies.
+
+### SerenityAI
+A mental health app designed to help users with accountability and offer guidance through an AI therapist-like experience.
+
+### Smart-Note
+A Notion-like markdown notes app with a node graph feature for idea collation.
+
+Feel free to reach out or explore my projects. Let's build something awesome together! 🚀
