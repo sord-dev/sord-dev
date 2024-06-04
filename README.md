@@ -60,16 +60,3 @@ I've been on an exciting journey from learning the basics of HTML, CSS, and Java
 
 - **AZ-900: Azure Fundamentals**, Microsoft
   *January 2024*
-
-## 🌟 Projects
-
-### [Portfolio](https://stefan-syrett.netlify.app/)
-A space-themed portfolio website showcasing my recent projects and technologies.
-
-### SerenityAI
-A mental health app designed to help users with accountability and offer guidance through an AI therapist-like experience.
-
-### Smart-Note
-A Notion-like markdown notes app with a node graph feature for idea collation.
-
-Feel free to reach out or explore my projects. Let's build something awesome together! 🚀
